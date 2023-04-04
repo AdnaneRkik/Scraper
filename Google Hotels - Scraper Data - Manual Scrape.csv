@@ -1,0 +1,76 @@
+name,address.city,check_in_date,check_in,check_out_date,check_out,sale_price,taxes,average_rate,total_price,Manual
+Hyatt Place San Francisco / Downtown,San Francisco,11/8/2023,"Wed, Nov 8",11/9/2023,"Thu, Nov 9",489,80.44,569.44,569.44,1
+Kimpton Hotel Born,Denver,11/5/2023,"Sun, Nov 5",11/6/2023,"Mon, Nov 6",339,80.59,419.59,419.59,1
+Marriott St. Louis Grand,St Louis,8/21/2023,"Mon, Aug 21",8/22/2023,"Tue, Aug 22",309,58.5,367.5,367.5,1
+Aloft Glendale at Westgate,Glendale,8/24/2023,"Thu, Aug 24",8/25/2023,"Fri, Aug 25",349,52.95,401.95,401.95,1
+Santa Clara Marriott,Santa Clara,8/30/2023,"Wed, Aug 30",8/31/2023,"Thu, Aug 31",549,86.2,635.2,635.2,1
+Homewood Suites by Hilton Seattle Downtown,Seattle,9/13/2023,"Wed, Sep 13",9/14/2023,"Thu, Sep 14",433,70.03,503.03,503.03,1
+Four Points by Sheraton Downtown Seattle Center,Seattle,9/13/2023,"Wed, Sep 13",9/14/2023,"Thu, Sep 14",409,70.22,479.22,479.22,1
+Live! by Loews,Arlington,9/21/2023,"Thu, Sep 21",9/22/2023,"Fri, Sep 22",649,120.43,769.43,769.43,1
+Wyndham Houston near NRG Park/Medical Center,Houston,9/23/2023,"Sat, Sep 23",9/24/2023,"Sun, Sep 24",299.25,50.88,350.13,350.13,1
+Courtyard Phoenix Downtown,Phoenix,7/22/2023,"Sat, Jul 22",7/23/2023,"Sun, Jul 23",169,21.24,190.24,190.24,1
+Hyatt Regency Tulsa Downtown,Tulsa,7/27/2023,"Thu, Jul 27",7/28/2023,"Fri, Jul 28",349,57.65,406.65,406.65,1
+Holiday Inn St. Paul Downtown,St Paul,7/30/2023,"Sun, Jul 30",7/31/2023,"Mon, Jul 31",243,36.16,279.16,279.16,1
+"The Current Hotel, Autograph Collection",Tampa,9/7/2023,"Thu, Sep 7",9/8/2023,"Fri, Sep 8",359,48.47,407.47,407.47,1
+Pittsburgh Marriott City Center,Pittsburgh,8/7/2023,"Mon, Aug 7",8/8/2023,"Tue, Aug 8",229,32.06,261.06,261.06,1
+DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown,Pittsburgh,8/7/2023,"Mon, Aug 7",8/8/2023,"Tue, Aug 8",369,51.66,420.66,420.66,1
+Embassy Suites by Hilton Seattle Downtown Pioneer Square,Seattle,9/20/2023,"Wed, Sep 20",9/21/2023,"Thu, Sep 21",639,104.32,743.32,743.32,1
+Homewood Suites by Hilton Athens Downtown University Area,Athens,9/22/2023,"Fri, Sep 22",9/24/2023,"Sun, Sep 24",1004,311.2,1159.6,2319.2,1
+AC Hotel Boston Downtown,Boston,4/7/2023,"Fri, Apr 7",4/9/2023,"Sun, Apr 9",284,93.44,330.72,661.44,1
+Wyndham Houston near NRG Park/Medical Center,Houston,9/23/2023,"Sat, Sep 23",9/24/2023,"Sun, Sep 24",299.25,50.88,350.13,350.13,1
+Hampton Inn & Suites Knoxville-Downtown,Knoxville,10/16/2023,"Mon, Oct 16",10/17/2023,"Tue, Oct 17",217,37.43,254.43,254.43,1
+"Courtyard By Marriott Washington, DC/Foggy Bottom",Washington,4/28/2023,"Fri, Apr 28",4/29/2023,"Sat, Apr 29",329,49.19,378.19,378.19,1
+AC Hotel by Marriott Minneapolis Downtown,Minneapolis,8/10/2023,"Thu, Aug 10",8/11/2023,"Fri, Aug 11",299,39.8,338.8,338.8,1
+Loews Minneapolis Hotel,Minneapolis,8/10/2023,"Thu, Aug 10",8/11/2023,"Fri, Aug 11",429,60.19,489.19,489.19,1
+AC Hotel by Marriott Minneapolis Downtown,Minneapolis,8/10/2023,"Thu, Aug 10",8/11/2023,"Fri, Aug 11",329,43.79,372.79,372.79,1
+Loews Minneapolis Hotel,Minneapolis,8/10/2023,"Thu, Aug 10",8/11/2023,"Fri, Aug 11",459,64.4,523.4,523.4,1
+Courtyard Los Angeles LAX/Hawthorne,Hawthorne,6/3/2023,"Sat, Jun 3",6/4/2023,"Sun, Jun 4",239,29.15,268.15,268.15,1
+Holiday Inn & Suites Duluth-Downtown,Duluth,8/2/2023,"Wed, Aug 2",8/3/2023,"Thu, Aug 3",279,40.12,319.12,319.12,1
+Le Méridien Essex Chicago,Chicago,8/3/2023,"Thu, Aug 3",8/7/2023,"Mon, Aug 7",477.5,402.78,578.2,2312.78,1
+The Blackstone Autpgraph Collection,Chicago,8/3/2023,"Thu, Aug 3",8/7/2023,"Mon, Aug 7",774,538.7,908.68,3634.7,1
+Kimpton Gray Hotel,Chicago,8/3/2023,"Thu, Aug 3",8/7/2023,"Mon, Aug 7",469,326.44,550.61,2202.44,1
+W Chicago City Center,Chicago,8/3/2023,"Thu, Aug 3",8/6/2023,"Sun, Aug 6",429,223.94,503.65,1510.94,1
+Courtyard Ogden,Ogden,8/9/2023,"Wed, Aug 9",8/10/2023,"Thu, Aug 10",179,22.68,201.68,201.68,1
+Homewood Suites by Hilton Ithaca,Ithaca,5/7/2023,"Sun, May 7",5/9/2023,"Tue, May 9",369.47,96.06,417.5,834.99,1
+Courtyard Phoenix West/Avondale,Phoenix,5/23/2023,"Tue, May 23",5/24/2023,"Wed, May 24",199,25.62,224.62,224.62,1
+Courtyard Columbus OSU,Columbus,5/26/2023,"Fri, May 26",5/28/2023,"Sun, May 28",409,143.15,480.58,961.15,1
+Kimpton Pittman Hotel,Dallas,5/26/2023,"Fri, May 26",5/27/2023,"Sat, May 27",390,67,457,457,1
+Hampton Inn & Suites Ft. Lauderdale/Miramar,Miramar,5/5/2023,"Fri, May 5",5/7/2023,"Sun, May 7",599,155.74,676.87,1353.74,1
+W Miami,Miami,5/5/2023,"Fri, May 5",5/8/2023,"Mon, May 8",935.67,432.7,1079.9,3239.7,1
+Embassy Suites by Hilton Tuscaloosa Alabama Downtown,Tuscaloosa,9/1/2023,"Fri, Sep 1",9/3/2023,"Sun, Sep 3",494,148.2,568.1,1136.2,1
+Homewood Suites by Hilton Tuscaloosa Downtown,Tuscaloosa,9/1/2023,"Fri, Sep 1",9/3/2023,"Sun, Sep 3",569,170.7,654.35,1308.7,1
+Hampton Inn Tuscaloosa-University,Tuscaloosa,10/20/2023,"Fri, Oct 20",10/22/2023,"Sun, Oct 22",929,278.7,1068.35,2136.7,1
+Hampton Inn Auburn,Auburn,9/29/2023,"Fri, Sep 29",10/1/2023,"Sun, Oct 1",206.5,48.32,230.66,461.32,1
+Hilton Miami Downtown,Miami,5/5/2023,"Fri, May 5",5/8/2023,"Mon, May 8",542.91,211.74,613.49,1840.47,1
+Homewood Suites by Hilton Athens Downtown University Area,Athens,9/1/2023,"Fri, Sep 1",9/3/2023,"Sun, Sep 3",904,281.2,1044.6,2089.2,1
+Hampton Inn Auburn,Auburn,11/24/2023,"Fri, Nov 24",11/26/2023,"Sun, Nov 26",164.5,38.49,183.75,367.49,1
+Stadium Hotel,Miami Gardens,7/21/2023,"Fri, Jul 21",7/24/2023,"Mon, Jul 24",250,97.5,282.5,847.5,1
+ATHBNB :: The Rushmore,Athens,9/1/2023,"Fri, Sep 1",9/3/2023,"Sun, Sep 3",740,228.64,854.32,1708.64,1
+Hampton Inn & Suites Ft. Lauderdale/Miramar,Miramar,7/21/2023,"Fri, Jul 21",7/23/2023,"Sun, Jul 23",369,95.94,416.97,833.94,1
+Hyatt Regency New Orleans,New Orleans,6/16/2023,"Fri, Jun 16",6/17/2023,"Sat, Jun 17",299,51.44,350.44,350.44,1
+Sonesta ES Suites New Orleans,New Orleans,6/16/2023,"Fri, Jun 16",6/17/2023,"Sat, Jun 17",165,27.73,192.73,192.73,1
+Le Pavillon Hotel,New Orleans,6/16/2023,"Fri, Jun 16",6/17/2023,"Sat, Jun 17",179.25,42.82,222.07,222.07,1
+Renaissance Nashville Hotel,Nashville,6/19/2023,"Mon, Jun 19",6/20/2023,"Tue, Jun 20",329,52.67,381.67,381.67,1
+Hilton Nashville Downtown,Nashville,6/19/2023,"Mon, Jun 19",6/20/2023,"Tue, Jun 20",393.86,62.56,456.42,456.42,1
+Sheraton Grand Nashville Downtown,Nashville,6/19/2023,"Mon, Jun 19",6/20/2023,"Tue, Jun 20",219,55.49,274.49,274.49,1
+Le Méridien Houston Downtown,Houston,6/21/2023,"Wed, Jun 21",6/22/2023,"Thu, Jun 22",319,54.23,373.23,373.23,1
+Marriott Marquis Houston,Houston,6/21/2023,"Wed, Jun 21",6/22/2023,"Thu, Jun 22",419,106.12,525.12,525.12,1
+Hilton Americas-Houston,Houston,6/21/2023,"Wed, Jun 21",6/22/2023,"Thu, Jun 22",296,52.66,348.66,348.66,1
+W Dallas - Victory,Dallas,6/24/2023,"Sat, Jun 24",6/25/2023,"Sun, Jun 25",389,67.3,456.3,456.3,1
+Hotel Crescent Court,Dallas,6/24/2023,"Sat, Jun 24",6/25/2023,"Sun, Jun 25",618,148.57,766.57,766.57,1
+"The Ritz-Carlton, Dallas",Dallas,6/24/2023,"Sat, Jun 24",6/25/2023,"Sun, Jun 25",849,188.21,1037.21,1037.21,1
+"The Gabriel Miami Downtown, Curio Collection by Hilton",Miami,6/28/2023,"Wed, Jun 28",6/29/2023,"Thu, Jun 29",349,73.62,422.62,422.62,1
+Courtyard by Marriott Miami Downtown/Brickell Area,Miami,6/28/2023,"Wed, Jun 28",6/29/2023,"Thu, Jun 29",229,29.77,258.77,258.77,1
+Embassy Suites by Hilton Atlanta at Centennial Olympic Park,Atlanta,7/1/2023,"Sat, Jul 1",7/3/2023,"Mon, Jul 3",304,112.75,360.38,720.75,1
+Hilton Garden Inn Atlanta Downtown,Atlanta,7/1/2023,"Sat, Jul 1",7/3/2023,"Mon, Jul 3",233.5,88.92,277.96,555.92,1
+Hampton Inn & Suites Atlanta-Downtown,Atlanta,7/1/2023,"Sat, Jul 1",7/3/2023,"Mon, Jul 3",269,100.92,319.46,638.92,1
+Hotel Chicago West Loop,Chicago,7/5/2023,"Wed, Jul 5",7/7/2023,"Fri, Jul 7",309,107.54,362.77,725.54,1
+Chicago Marriott at Medical District/UIC,Chicago,7/5/2023,"Wed, Jul 5",7/7/2023,"Fri, Jul 7",369,128.41,433.21,866.41,1
+Hyatt House Chicago / West Loop-Fulton Market,Chicago,7/5/2023,"Wed, Jul 5",7/6/2023,"Thu, Jul 6",349,60.73,409.73,409.73,1
+MGM Grand Detroit,Detroit,7/8/2023,"Sat, Jul 8",7/9/2023,"Sun, Jul 9",399,79.4,478.4,478.4,1
+Aloft Detroit at The David Whitney,Detroit,7/8/2023,"Sat, Jul 8",7/9/2023,"Sun, Jul 9",519,62.28,581.28,581.28,1
+Courtyard by Marriott Boston Downtown/North Station,Boston,7/11/2023,"Tue, Jul 11",7/13/2023,"Thu, Jul 13",444,146.08,517.04,1034.08,1
+"Hotel Indigo Boston Garden, an IHG Hotel",Boston,7/11/2023,"Tue, Jul 11",7/13/2023,"Thu, Jul 13",459,151.02,534.51,1069.02,1
+Kimpton Hotel Monaco Washington DC,Washington DC,7/28/2023,"Fri, Jul 28",7/29/2023,"Sat, Jul 29",299,79.19,378.19,378.19,1
+"Fairfield Inn & Suites by Marriott Washington, DC/Downtown",Washington DC,7/28/2023,"Fri, Jul 28",7/29/2023,"Sat, Jul 29",364,54.42,418.42,418.42,1
+Motto by Hilton Washington DC City Center,Washington DC,7/28/2023,"Fri, Jul 28",7/29/2023,"Sat, Jul 29",259,38.72,297.72,297.72,1
